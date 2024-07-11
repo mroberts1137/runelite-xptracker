@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Action XP Tracker
+This plugin allows you to track the average xp gained per action. This is useful for tracking things like xp per runes/arrows to find out how much xp your rune/arrow stack will get you.
